@@ -58,10 +58,12 @@
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
-| Name | 8.30 | 8.31 | 9.01 | 9.02 | 9.03 | 9.04 | 9.05 | 9.06 | 9.07 | 9.08 |
-| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/TESTDATA_111/blob/main/SIGNUP_AUTOMATION.md) | | | | | | | | | | |
+| Name | 8.30 | 8.31 | 9.01 | 9.02 | 9.03 | 9.04 | 9.05 | 9.06 | 9.07 | 9.08 | 9.09 |
+| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/TESTDATA_111/blob/main/SIGNUP_AUTOMATION.md) | | | | | | | | | | | |
+| [muxin-web3](https://github.com/IntensiveCoLearning/TESTDATA_111/blob/main/muxin-web3.md) | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
